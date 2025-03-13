@@ -17,4 +17,4 @@ Hackathon: Oracle APEX Hackathon - Xcelerate 2024
 Feel free to reach out for inquiries, collaborations, or opportunities!
 
 Email: vivekwork159@gmail.com
-LinkedIn: linkedin.com/in/vivek-oza/
+LinkedIn: https://www.linkedin.com/in/vivek-oza/
